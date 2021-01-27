@@ -1,0 +1,10 @@
+# Using Python 3.8.2
+fastapi==0.63.0
+grpcio==1.34.1
+grpcio-tools==1.34.1
+protobuf==3.14.0
+python-multipart==0.0.5
+
+# dev
+ipdb
+uvicorn==0.13.3
